@@ -15,7 +15,5 @@
 //= require rails-ujs
 //= require twitter/bootstrap
 //= require activestorage
-//= require turbolinks
 //= require_tree .
 
-import "./credit_card_form"
